@@ -134,7 +134,7 @@
 		{
 			"name": "Vintage Solid Caret",
 			"details": "https://github.com/muffinmad/VintageSolidCaret",
-			"author": "muffi@jbs%iis036145028073@@nmad",
+			"author": "muffi@jbs%iis150029115067@@nmad",
 			"releases": [
 				{
 					"sublime_text": ">=3000",
